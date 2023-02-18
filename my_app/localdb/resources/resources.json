@@ -1,0 +1,41 @@
+[
+  {
+    "str": " @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Lato",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Lato",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Lato",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
